@@ -4,8 +4,8 @@ import time
 
 WEB_DRIVER_PATH = "C:\Develop\chromedriver.exe"
 
-EMAIL = "rassss932@gmail.com"
-PASSWORD = "Litmus10."
+EMAIL = "MailId"
+PASSWORD = "password"
 is_on = True
 
 
